@@ -1,22 +1,22 @@
 {
     "domain": "edu.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "학습 교재",
+        "학용품",
+        "교육용 전자기기"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang edu items."
+        "학습 교재": {
+            "topic": "Workbooks, language books, test prep books.",
+            "role": "Education materials expert."
         },
-        "수유/이유식": {
-            "topic": "edu bottle sterilizers, edu food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "학용품": {
+            "topic": "Pencil cases, notebooks, highlighters, erasers.",
+            "role": "School supply reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "교육용 전자기기": {
+            "topic": "Study tablets, electronic dictionaries, voice recorders.",
+            "role": "EdTech guide."
         }
     }
 }
