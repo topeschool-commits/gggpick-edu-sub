@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://edu.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick edu'
+title = 'GGG Pick 문구도서'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick edu'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'edu 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '학습 교재, 학용품, 교육용 전자기기 등 공부 효율을 높여주는 교육/학습 용품 쿠팡 로켓배송 특가 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick edu'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick edu"
+  sitename = "GGG Pick 문구도서"
   siteurl = "https://edu.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
